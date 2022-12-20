@@ -4,7 +4,7 @@
 
 Relógio Digital
 
-📁 [Clique para acessar](https://hnrckc.github.io/relogio/)
+📁 [Clique para acessar](https://hnrckc.github.io/Relogio_Digital/)
 
 ##  Tecnologias e Ferramentas 🛠️ 💻
 
@@ -16,4 +16,3 @@ Relógio Digital
 ## Contato
 
 cruzc.henrique@gmail.com 💜
-
